@@ -1,0 +1,15 @@
+feature_code,feature_label,mean_abs_shap
+HE_wc,Waist circumference (cm),1.4403505
+HE_wt,Body weight (kg),0.5377254
+L_BR_FQ,Breakfast frequency,0.43847445
+BS3_1,Current smoking,0.2548883
+N_SUGAR,Sugar intake (g),0.1647621
+BD2_1,Alcohol amount per occasion,0.15505925
+N_CHO,Carbohydrate intake (g),0.111464255
+BE3_75,High-intensity PA: leisure,0.09732726
+HE_BMI,BMI (kg/m²),0.08711973
+BD1_11,Alcohol drinking frequency,0.074839234
+N_EN,Energy intake (kcal),0.069141254
+pa_aerobic,Aerobic PA practice,0.04510218
+BE3_91,PA: transportation,0.027379869
+BH1,Health checkup (past year),0.008344169
