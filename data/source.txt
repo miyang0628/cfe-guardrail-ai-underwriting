@@ -1,0 +1,7 @@
+Data Access
+This study uses the Korea National Health and Nutrition Examination Survey (KNHANES) 2020–2024, conducted by the Korea Disease Control and Prevention Agency (KDCA).
+
+Access: https://knhanes.kdca.go.kr
+Format: SAS7BDAT files (hn20_all.sas7bdat … hn24_all.sas7bdat)
+Availability: Publicly available upon registration (free of charge)
+Placement: Download and place files in data/ before running notebooks
