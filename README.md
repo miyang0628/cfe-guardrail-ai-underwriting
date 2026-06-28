@@ -229,16 +229,6 @@ See `LICENSE` for details.
 ## Citation
 
 ```bibtex
-@article{anonymous2025cfe,
-  title   = {Adverse Selection Risk and Counterfactual
-             Explanation Guardrails in Healthcare
-             {AI} Underwriting: A Quantitative
-             Governance Evaluation under Korea's
-             {AI} Basic Act},
-  author  = {Anonymous},
-  journal = {Under review},
-  year    = {2025}
-}
 ```
 
 ---
