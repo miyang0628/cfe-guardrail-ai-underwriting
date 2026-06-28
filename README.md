@@ -40,6 +40,7 @@ G2 Robustness, G3 Accountability, G4 Fairness).
 │   ├── 02_ml_underwriting.ipynb        # XGBoost model training + SHAP
 │   ├── 03_cfe_rrr.ipynb                # CFE generation + RRR/RAG baseline
 │   ├── 04_guardrail.ipynb              # Three-stage guardrail framework
+│   ├── 05_feature_engineering.ipynb      # Descriptive statistics (Table 1)
 │   ├── 06_descriptive_stats.ipynb      # Descriptive statistics (Table 1)
 │   ├── 07_model_comparison.ipynb       # XGB vs LGB vs RF comparison
 │   ├── 08_calibration.ipynb            # Calibration assessment (ECE, HL)
