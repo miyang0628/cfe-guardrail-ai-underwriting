@@ -1,4 +1,3 @@
-```markdown
 # CFE Guardrail Framework for Healthcare AI Underwriting
 
 > **Anonymous submission — code repository for peer review**  
