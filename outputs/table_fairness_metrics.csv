@@ -1,0 +1,7 @@
+Disease,Attribute,DPD,EOD,PP
+Hypertension,sex,0.2162,0.0802,0.0549
+Hypertension,age_group,0.6224,0.3558,0.3039
+Diabetes,sex,0.1473,0.0135,0.0298
+Diabetes,age_group,0.7479,0.3522,0.3768
+Dyslipidemia,sex,0.1096,0.1742,0.1064
+Dyslipidemia,age_group,0.7135,0.6139,0.2243

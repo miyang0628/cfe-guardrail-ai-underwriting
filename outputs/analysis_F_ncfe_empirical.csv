@@ -1,0 +1,10 @@
+Disease,N_CFE,RRR_emp,N_sample
+Hypertension,5,0.38,50
+Hypertension,10,0.48,50
+Hypertension,20,0.58,50
+Diabetes,5,0.36,50
+Diabetes,10,0.58,50
+Diabetes,20,0.66,50
+Dyslipidemia,5,0.46,50
+Dyslipidemia,10,0.58,50
+Dyslipidemia,20,0.62,50

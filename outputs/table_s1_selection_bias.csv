@@ -1,0 +1,4 @@
+Disease,N_retained,Age_mean,Age_sd,Female_pct,BMI_mean,BMI_sd,Prevalence_pct
+Hypertension,14361,49.6,16.6,61.8,23.39,3.34,32.2
+Diabetes,13519,50.4,17.5,59.7,23.49,3.39,24.1
+Dyslipidemia,21282,53.4,16.8,58.1,23.9,3.42,30.3

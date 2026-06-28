@@ -1,0 +1,89 @@
+{
+  "htn": {
+    "total": {
+      "young": 0.5367,
+      "middle": 0.4333,
+      "elderly": 0.3333,
+      "overall": 0.4189,
+      "RAG_young_vs_middle": 0.1034,
+      "RAG_middle_vs_elderly": 0.1,
+      "RAG_young_vs_elderly": 0.2034
+    },
+    "male": {
+      "young": 0.53,
+      "middle": 0.54,
+      "elderly": 0.3533,
+      "overall": 0.4311,
+      "RAG_young_vs_middle": 0.01,
+      "RAG_middle_vs_elderly": 0.1867,
+      "RAG_young_vs_elderly": 0.1767
+    },
+    "female": {
+      "young": 0.4967,
+      "middle": 0.47,
+      "elderly": 0.1967,
+      "overall": 0.3878,
+      "RAG_young_vs_middle": 0.0267,
+      "RAG_middle_vs_elderly": 0.2733,
+      "RAG_young_vs_elderly": 0.3
+    }
+  },
+  "dm": {
+    "total": {
+      "young": 0.64,
+      "middle": 0.47,
+      "elderly": 0.2867,
+      "overall": 0.4,
+      "RAG_young_vs_middle": 0.17,
+      "RAG_middle_vs_elderly": 0.1833,
+      "RAG_young_vs_elderly": 0.3533
+    },
+    "male": {
+      "young": 0.7059,
+      "middle": 0.57,
+      "elderly": 0.4033,
+      "overall": 0.4922,
+      "RAG_young_vs_middle": 0.1359,
+      "RAG_middle_vs_elderly": 0.1667,
+      "RAG_young_vs_elderly": 0.3026
+    },
+    "female": {
+      "young": 0.6622,
+      "middle": 0.56,
+      "elderly": 0.2933,
+      "overall": 0.4278,
+      "RAG_young_vs_middle": 0.1022,
+      "RAG_middle_vs_elderly": 0.2667,
+      "RAG_young_vs_elderly": 0.3689
+    }
+  },
+  "dys": {
+    "total": {
+      "young": 0.7533,
+      "middle": 0.5433,
+      "elderly": 0.3933,
+      "overall": 0.4889,
+      "RAG_young_vs_middle": 0.21,
+      "RAG_middle_vs_elderly": 0.15,
+      "RAG_young_vs_elderly": 0.36
+    },
+    "male": {
+      "young": 0.6933,
+      "middle": 0.62,
+      "elderly": 0.52,
+      "overall": 0.55,
+      "RAG_young_vs_middle": 0.0733,
+      "RAG_middle_vs_elderly": 0.1,
+      "RAG_young_vs_elderly": 0.1733
+    },
+    "female": {
+      "young": 0.7467,
+      "middle": 0.4933,
+      "elderly": 0.26,
+      "overall": 0.4133,
+      "RAG_young_vs_middle": 0.2534,
+      "RAG_middle_vs_elderly": 0.2333,
+      "RAG_young_vs_elderly": 0.4867
+    }
+  }
+}

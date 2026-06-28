@@ -1,0 +1,10 @@
+Disease,Subgroup,RRR_young,RRR_middle,RRR_elderly,RRR_overall,RAG_young_middle,RAG_middle_elderly,RAG_young_elderly
+Hypertension,total,0.5367,0.4333,0.3333,0.4189,0.1034,0.1,0.2034
+Hypertension,male,0.53,0.54,0.3533,0.4311,0.01,0.1867,0.1767
+Hypertension,female,0.4967,0.47,0.1967,0.3878,0.0267,0.2733,0.3
+Diabetes,total,0.64,0.47,0.2867,0.4,0.17,0.1833,0.3533
+Diabetes,male,0.7059,0.57,0.4033,0.4922,0.1359,0.1667,0.3026
+Diabetes,female,0.6622,0.56,0.2933,0.4278,0.1022,0.2667,0.3689
+Dyslipidemia,total,0.7533,0.5433,0.3933,0.4889,0.21,0.15,0.36
+Dyslipidemia,male,0.6933,0.62,0.52,0.55,0.0733,0.1,0.1733
+Dyslipidemia,female,0.7467,0.4933,0.26,0.4133,0.2534,0.2333,0.4867

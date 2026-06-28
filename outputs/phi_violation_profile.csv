@@ -1,0 +1,4 @@
+Disease,phi_caus_viol,phi_cost_viol,both_viol,total_cfes
+Hypertension,0.052,0.834,0.04,500
+Diabetes,0.034,0.864,0.028,500
+Dyslipidemia,0.17,0.804,0.16,500

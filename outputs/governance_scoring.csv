@@ -1,0 +1,4 @@
+Disease,G1_Transparency,G2_Robustness (mean RRR),G3_Accountability (% above floor),G4_Fairness (RAG reduction %)
+Hypertension,0.834,0.543,1.0,-0.0994
+Diabetes,0.864,0.6352,1.0,0.0856
+Dyslipidemia,0.804,0.6452,1.0,0.2784

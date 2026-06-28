@@ -1,0 +1,16 @@
+Disease,Multiplier,RRR_est,p_single,p_adj
+Hypertension,0.5,0.2321,0.1029,0.0514
+Hypertension,0.75,0.3307,0.1029,0.0772
+Hypertension,1.0,0.4189,0.1029,0.1029
+Hypertension,1.25,0.4976,0.1029,0.1286
+Hypertension,1.5,0.5675,0.1029,0.1543
+Diabetes,0.5,0.2203,0.0971,0.0486
+Diabetes,0.75,0.3149,0.0971,0.0728
+Diabetes,1.0,0.4,0.0971,0.0971
+Diabetes,1.25,0.4765,0.0971,0.1214
+Diabetes,1.5,0.5449,0.0971,0.1457
+Dyslipidemia,0.5,0.277,0.1256,0.0628
+Dyslipidemia,0.75,0.3903,0.1256,0.0942
+Dyslipidemia,1.0,0.4889,0.1256,0.1256
+Dyslipidemia,1.25,0.5743,0.1256,0.157
+Dyslipidemia,1.5,0.6479,0.1256,0.1884

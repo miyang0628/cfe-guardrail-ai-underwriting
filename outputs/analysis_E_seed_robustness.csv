@@ -1,0 +1,10 @@
+Disease,Seed,RRR,N_sample
+Hypertension,0,0.38,50
+Hypertension,42,0.38,50
+Hypertension,123,0.3,50
+Diabetes,0,0.38,50
+Diabetes,42,0.36,50
+Diabetes,123,0.44,50
+Dyslipidemia,0,0.5,50
+Dyslipidemia,42,0.46,50
+Dyslipidemia,123,0.46,50
